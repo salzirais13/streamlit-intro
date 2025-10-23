@@ -111,8 +111,9 @@ st.markdown(
     """
     <hr>
     <p style='text-align:center; color: gray; font-size: 13px;'>
-    © 2025 Prediksi Churn Streamlit App | Dibuat oleh Zee
+    © 2025 Prediksi Churn Streamlit App | Dibuat oleh Salzi
     </p>
     """,
     unsafe_allow_html=True
 )
+
